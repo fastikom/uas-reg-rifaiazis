@@ -7,11 +7,11 @@ Android & IOS Native {NativeScript} dan Frontend Angular dengan Backend Laravel 
 # About
 ScriptSweet adalah aplikasi mobile yang diperuntukkan bagi mahasiswa bimbingan skripsi. Berawal dari Assignment 2
 		<p align="center">
-  			<img src="/screenshot/Screenshot (247).png" width="350"/>
+  			<img src="/Screenshot/Screenshot (138).png" width="350"/>
 		</p>
 namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa terutama pada tampilan 
 		<p align="center">
-  			<img src="/screenshot/Screenshot (247).png" width="350"/>
+  			<img src="/Screenshot/Screenshot_20170624-072640" width="350"/>
 		</p>
 
 # Contribute
