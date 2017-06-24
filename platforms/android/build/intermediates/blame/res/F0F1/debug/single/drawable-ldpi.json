@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\background.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\home.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icons.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icons.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\browse.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\browse.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\logout.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\favorites.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\ifr.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\ifr.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\settings.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\search.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\account.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-ldpi\\account.png"
+    }
+]

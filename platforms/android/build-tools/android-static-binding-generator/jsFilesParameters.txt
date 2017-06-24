@@ -1,0 +1,4 @@
+C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\src\main\assets\app\app-routing.module.js
+C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\src\main\assets\app\akun\akun-routing.module.js
+C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\src\main\assets\app\akun\akun.component.js
+C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\src\main\assets\app\akun\akun.module.js

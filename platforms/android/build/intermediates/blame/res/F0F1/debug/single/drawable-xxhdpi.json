@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\browse.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\browse.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\search.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\settings.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\background.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\favorites.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\favorites.png"
+    },
+    {
+        "merged": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-xxhdpi\\home.png",
+        "source": "C:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Jun 23 21:09:53 ICT 2017
+base.0=C\:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\HKR\\Desktop\\Uas-Native\\scriptsweet\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main\\classes.dex

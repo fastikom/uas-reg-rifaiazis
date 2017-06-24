@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-25.3.1_76c971adfe6e2b4c4c42238e3dde6b01d60d725a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-25.3.1_39b5708dffe4b3650f523507a6ff9306ba452e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-25.3.1_5091253ed47a983c57d2eca03ed35720b95c42a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-25.3.1_55804fa8d6d5c0c8b1dd8a6955ee7ce21c1871ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\scriptsweet\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_7a66170116064301ea3f86c2e44bcfa8f672592e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-25.3.1_31576f298e81fa17a438cc500dc4dec0070193ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\scriptsweet\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb501f7cf4d74a5f9ec1a9c8172e552f57ea3215">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\scriptsweet-runtime-unspecified_832845d441dfc94fcfacbd11e4877852e3667161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-25.3.1_816d6413d6f8edc53d51b1093b2a2098ceec3891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\Common-2017.1.504-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="35d17e8af8b765ad6db33ed0dad10fd3945aec35">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Common-2017.1.504-dev-release_0192fc1aa43373806eff797c68712effe45efa05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-25.3.1_fcd71fdb11362007aad3f7f268a4112885a1751f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-25.3.1_f27037ddbcc1f61743b55ddf4cb324ef22e85421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\Primitives-2017.1.504-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8370f7dca6cdb1c2b3407855a4c6d481ddd7b0d6">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Primitives-2017.1.504-dev-release_e949d299bea0d96bb3b4d6556afaff08344e2a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-25.3.1_92995315a30fdc0fb1f7bc6de2451e2ffe886e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-25.3.1_561d2d63feb836519b7c13ed96c7bfd0f755906b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-25.3.1_6c6a89e8ef10bc6423c98be8a354b0736b44ddf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\List-2017.1.504-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68e4f95c7b18e9879ebfb526a9545ed960ef3190">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-List-2017.1.504-dev-release_6d96d959ba07d3d172befe5313fbc1144289b31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_4dc3e605138c1c13191281c7d4289c7b220bb232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-25.3.1_d83e314037405cbab777448b4c9f5ef07fa5514c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-25.3.1_41d7c9fb622de7d21bc2667f0649b5fc1c08cba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\exploded-aar\Data-2017.1.504-dev-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b641bfe74a612df8e72181362ec895f8f56f73e">
+        <dex dex="C:\Users\HKR\Desktop\Uas-Native\scriptsweet\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-Data-2017.1.504-dev-release_634a6857dc800be3d7ff1a2ba8a45094f00a039f.jar" />
+    </item>
+
+</items>
