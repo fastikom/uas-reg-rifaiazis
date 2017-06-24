@@ -9,7 +9,7 @@ ScriptSweet adalah aplikasi mobile yang diperuntukkan bagi mahasiswa bimbingan s
 		<p align="center">
   			<img src="/Screenshot/Screenshot (138).png" width="700"/>
 		</p>
-namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa<br>
+namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa<br><br>
 		<p align="center">
   			<img src="Screenshot/Screenshot_20170624-072640.png" width="200"/>
 		</p>
@@ -18,6 +18,6 @@ namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa<b
 
 See our profile
 <br>https://github.com/harrikr (2014150040) 
-<br>https://github.com/rifaiazis) (2014150055) 
+<br>https://github.com/rifaiazis (2014150055) 
 <br>https://github.com/SuciAnugraheni (2014150070)
 
