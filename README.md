@@ -5,13 +5,13 @@ Belum uji coba pada platform IOS
 Android & IOS Native {NativeScript} dan Frontend Angular dengan Backend Laravel sebagai APInya
 
 # About
-ScriptSweet adalah aplikasi mobile yang diperuntukkan bagi mahasiswa bimbingan skripsi. Berawal dari Assignment 2
+ScriptSweet adalah aplikasi mobile yang diperuntukkan bagi mahasiswa bimbingan skripsi. Berawal dari Assignment 2 -> https://github.com/harrikr/SampleLarAngu
 		<p align="center">
-  			<img src="/Screenshot/Screenshot (138).png" width="350"/>
+  			<img src="/Screenshot/Screenshot (138).png" width="700"/>
 		</p>
-namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa terutama pada tampilan 
-		<p align="center">
-  			<img src="/Screenshot/Screenshot_20170624-072640" width="350"/>
+namun pada mobile ini ditambah berbagai fitur dan dikembangkan sedemikian rupa  
+		<p align="left">
+  			<img src="Screenshot/Screenshot_20170624-072640.png" width="200"/>
 		</p>
 
 # Contribute
